@@ -1,5 +1,5 @@
 # Applied Statistics 2023 - Code Repository
-Test
+
 This git is a repository of the code that will be used in the Applied Statistics code 2023/24 edition.
 *	[Course Main page](https://www.nbi.dk/~petersen/Teaching/AppliedStatistics2023.html)
 
